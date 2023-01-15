@@ -1,0 +1,15 @@
+C:\Users\corvu\OneDrive\Рабочий стол\c#\c# seminar 2\obj\Debug\net6.0\c# seminar 2.csproj.AssemblyReference.cache
+C:\Users\corvu\OneDrive\Рабочий стол\c#\c# seminar 2\obj\Debug\net6.0\c# seminar 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corvu\OneDrive\Рабочий стол\c#\c# seminar 2\obj\Debug\net6.0\c# seminar 2.AssemblyInfoInputs.cache
+C:\Users\corvu\OneDrive\Рабочий стол\c#\c# seminar 2\obj\Debug\net6.0\c# seminar 2.AssemblyInfo.cs
+C:\Users\corvu\OneDrive\Рабочий стол\c#\c# seminar 2\obj\Debug\net6.0\c# seminar 2.csproj.CoreCompileInputs.cache
+C:\Users\corvu\OneDrive\Рабочий стол\c#\c# seminar 2\bin\Debug\net6.0\c# seminar 2.exe
+C:\Users\corvu\OneDrive\Рабочий стол\c#\c# seminar 2\bin\Debug\net6.0\c# seminar 2.deps.json
+C:\Users\corvu\OneDrive\Рабочий стол\c#\c# seminar 2\bin\Debug\net6.0\c# seminar 2.runtimeconfig.json
+C:\Users\corvu\OneDrive\Рабочий стол\c#\c# seminar 2\bin\Debug\net6.0\c# seminar 2.dll
+C:\Users\corvu\OneDrive\Рабочий стол\c#\c# seminar 2\bin\Debug\net6.0\c# seminar 2.pdb
+C:\Users\corvu\OneDrive\Рабочий стол\c#\c# seminar 2\obj\Debug\net6.0\c# seminar 2.dll
+C:\Users\corvu\OneDrive\Рабочий стол\c#\c# seminar 2\obj\Debug\net6.0\refint\c# seminar 2.dll
+C:\Users\corvu\OneDrive\Рабочий стол\c#\c# seminar 2\obj\Debug\net6.0\c# seminar 2.pdb
+C:\Users\corvu\OneDrive\Рабочий стол\c#\c# seminar 2\obj\Debug\net6.0\c# seminar 2.genruntimeconfig.cache
+C:\Users\corvu\OneDrive\Рабочий стол\c#\c# seminar 2\obj\Debug\net6.0\ref\c# seminar 2.dll
